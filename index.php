@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <form action="index_1.php" method="get">
+    <form action="./server.php" method="get">
         <label for="paragraph">Type a paragraph</label>
         <input type="text" name="paragraph" id="paragraph">
         <label for="word">Type the word to censor</label>
